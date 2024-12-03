@@ -17,7 +17,7 @@ This appears to cause the heatsink to receive insufficient cooling to prevent he
 
 The ceramic heatbreak nozzles appear to work, while the other fixes listed here will help to minimise, but not completely address the chance of clogging.
 
-It shoudl be noted that there have been no reports of clogging on the Qidi Discord Community server by users after installing the ceramic heat-break nozzle, along with installing the duct and better fan.
+It should be noted that there have been no reports of clogging on the Qidi Discord Community server by users after installing the ceramic heat-break nozzle, along with installing the duct and better fan.
 
 - Install a nozzle from Qidi that has the ceramic heatbreak.  eg. [Ceramic Heatbreak Nozzle](https://qidi3d.com/products/plus-4-bimetal-nozzles-2pcs).
   These nozzles can be easily identified by the white heatbreak section between the upper and lower portions of the nozzle, whereas the stainless steel heatbreaks are silvery in appearance.
@@ -26,6 +26,13 @@ It shoudl be noted that there have been no reports of clogging on the Qidi Disco
 - Install a stronger heatsink cooling fan.
   I recommend the [GDSTime GDA30105F](http://gdstime.com/pro1/62.html) 12,000PM fans.
   These can be purchased from this [US Store](https://west3d.com/products/gdstime-dc-24v-30x30x10-axial-fan-24v-gda30105f-dual-ball-bearing-1200rpm-1w-06a-xh2-54), [EU Store](https://www.hotend.eu/p/gdstime-axial-fan-sleeve-3010-24v) or from [CN Store](https://www.aliexpress.com/item/1005001769596081.html)
+- Alternatively print an alternative Extruder Shroud and Nozzle Fan Shroud to fit a 4020 fan,
+  There are two versions on Printable that can fit a 4020 fan
+
+    [qidi plus 4 silent toolhead](https://www.printables.com/model/1048049-qidi-plus-4-silent-toolhead) keeps the fan attached to the toolhead shroud, which is different from the original
+
+  [qidi-plus-4-extruder-shroud-and-fan-upgrade-to-4020](https://www.printables.com/model/1065704-qidi-plus-4-extruder-shroud-and-fan-upgrade-to-20x) this version keeps the fan shroud seperate from the toolhead shroud, and also has a removable faceplate, links to two fans are in this printables link, a sunon 4020 or gdstime 4020, both are also much quieter than stock.
+    
 - Raise the nozzle temperature by 5-10C.
   This can sometimes resolve the heatcreep clogging as it keeps the filament within the heatbreak molten for longer between retraction events.
 
